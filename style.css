@@ -5,3 +5,22 @@ body {
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: #d10000;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+
+}
+
+section {
+    margin: 20px auto; 
+    padding: 20px;
+    background-color: #fff;
+    border: 5px solid #fff;
+    width: 80%;
+    /* Tror att width måste vara med för
+    att kunna centrera. */
+
+}
